@@ -1,0 +1,44 @@
+\documentclass{book}
+
+\usepackage[T1]{fontenc}
+\usepackage{cmbright}
+\usepackage{fullpage}
+\usepackage[latin1]{inputenc}
+\usepackage{url}
+\usepackage{graphicx}
+\usepackage{parskip}
+\usepackage{minitoc}
+\usepackage{textcomp}
+\usepackage{fancyvrb}
+\usepackage{color}
+\usepackage{array}
+\usepackage{longtable}
+\usepackage{lscape}
+\usepackage{algpseudocode}
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\usepackage[toc,page]{appendix}
+
+\setcounter{secnumdepth}{4}
+\setcounter{tocdepth}{4}
+
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0.0pt}
+\lhead{Isabell Long, 18685}
+\chead{SFS Administration Program}
+\rhead{Centre: Woking College, 64986}
+\cfoot{Page \thepage\ of \pageref{LastPage}}
+\lfoot{\today}
+\begin{document}
+
+	\dominitoc
+	\tableofcontents
+
+\input{analysis}
+\input{design}
+\input{testing2}
+\input{sys_maint}
+\input{user_manual}
+\input{appraisal}
+\input{references}
+\end{document}

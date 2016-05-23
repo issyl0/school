@@ -1,0 +1,49 @@
+0.0.0 - Don't forget a cover/title page!
+
+1.1.2 - Much more detail about exactly which documentation needs to be
+kept.
+
+1.2.1.3/4 - Include samples of existing documentation/forms/reports/etc.
+
+1.2.1.5 - Data Flow Diagrams aren't actually DFDs... DFD shows the
+sources/destinations of data, major processing items, and how the data
+moves between them all. Such as http://spot.colorado.edu/~kozar/dfdsds.gif
+
+See page 236-238 in the textbook.
+
+The existing diagrams are very pretty, though. ;-)
+
+1.2.3 - I'm pretty sure this can either be skipped entirely if 1.2.1.5 is
+done correctly, or just condensed down to a simple list/table of places
+that data comes from/goes (ie the square boxes in a DFD). 
+
+1.2.4 - Entity Relationship Diagrams. Just make up any old bollocks. Take
+major items from your analysis so far and draw some arrows between them.
+One Customer can have many Components, one Supplier supplies many
+components, each component only hasone supplier, etc... 
+
+1.2.5 - I think some more words in this section wouldn't hurt. What you've
+got is good, it just needs expanding upon. *why* is it open to data entry
+duplication/error, etc... 
+
+1.2.7 - See 1.2.1.5
+
+1.2.8 - See 1.2.3
+
+1.6 - Consider the VB solution along with the other two. A few more words
+might not hurt either.
+
+2.1 - Right sort of diagram, but the shapes need work. Look at the diagram
+on p249 of the textbook.
+
+2.2 - As far as I can tell this diagram is meant to be basically a
+flowchart showing how your forms link together. I don't have a clue what
+your diagram is showing, but again it's very pretty. :P IIRC it also needs
+to be in more "technical" language, so the names of forms should be how
+they are in the code - frmCustomer, or whatever.
+
+2.4 - See 1.2.9
+
+2.14 - Needs rewriting completely... Look at the testing section of the
+textbook (p259), particularly the different testing strategies. Talk about
+which one(s) you're "going" to use, and just make it  bit more technical... 

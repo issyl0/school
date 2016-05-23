@@ -1,0 +1,158 @@
+\contentsline {chapter}{\numberline {1}Analysis}{5}
+\contentsline {section}{\numberline {1.1}Introduction}{5}
+\contentsline {subsection}{\numberline {1.1.1}Background}{5}
+\contentsline {subsection}{\numberline {1.1.2}Problem definition}{5}
+\contentsline {subsection}{\numberline {1.1.3}The users}{5}
+\contentsline {section}{\numberline {1.2}Investigation of user needs and acceptable limitations}{6}
+\contentsline {subsection}{\numberline {1.2.1}The current system analysis}{6}
+\contentsline {subsubsection}{\numberline {1.2.1.1}Interview (1), 13/\penalty \exhyphenpenalty 10/\penalty \exhyphenpenalty 2011, 14:00}{6}
+\contentsline {subsubsection}{\numberline {1.2.1.2}Observation}{7}
+\contentsline {subsubsection}{\numberline {1.2.1.3}Investigation of documentation}{7}
+\contentsline {subsubsection}{\numberline {1.2.1.4}Investigation of input forms, output forms and report formats from the existing system}{7}
+\contentsline {subsection}{\numberline {1.2.2}Data Flow Diagram of the current system}{8}
+\contentsline {subsection}{\numberline {1.2.3}Data sources and destinations}{9}
+\contentsline {subsection}{\numberline {1.2.4}Entity relationship diagram and entity descriptions of the current system}{9}
+\contentsline {subsection}{\numberline {1.2.5}Discussion of problems with the current system}{9}
+\contentsline {subsection}{\numberline {1.2.6}The proposed new system analysis}{9}
+\contentsline {subsubsection}{\numberline {1.2.6.1}User needs}{9}
+\contentsline {subsubsection}{\numberline {1.2.6.2}Interview (2), 24/\penalty \exhyphenpenalty 10/\penalty \exhyphenpenalty 11, 19:00}{10}
+\contentsline {subsection}{\numberline {1.2.7}Data Flow Diagram of the proposed new system}{10}
+\contentsline {subsection}{\numberline {1.2.8}Data sources and destinations}{10}
+\contentsline {subsection}{\numberline {1.2.9}Entity relationship diagram and entity descriptions of the new system}{11}
+\contentsline {subsection}{\numberline {1.2.10}Analysis data dictionary}{11}
+\contentsline {subsection}{\numberline {1.2.11}Data volumes}{12}
+\contentsline {section}{\numberline {1.3}Constraints}{13}
+\contentsline {subsection}{\numberline {1.3.1}Hardware constraints}{13}
+\contentsline {subsection}{\numberline {1.3.2}Software constraints}{13}
+\contentsline {subsection}{\numberline {1.3.3}Time constraints}{13}
+\contentsline {subsection}{\numberline {1.3.4}User's knowledge of information technology}{13}
+\contentsline {subsection}{\numberline {1.3.5}Who will be allowed to use various parts of the system}{13}
+\contentsline {section}{\numberline {1.4}Limitations}{13}
+\contentsline {subsection}{\numberline {1.4.1}Areas which will not be included in computerisation}{13}
+\contentsline {subsection}{\numberline {1.4.2}Areas considered for later development}{13}
+\contentsline {section}{\numberline {1.5}Objectives}{14}
+\contentsline {subsection}{\numberline {1.5.1}General objectives}{14}
+\contentsline {subsection}{\numberline {1.5.2}Specific objectives}{14}
+\contentsline {section}{\numberline {1.6}Consideration of alternative solutions}{14}
+\contentsline {section}{\numberline {1.7}Justification of the chosen solution}{15}
+\contentsline {chapter}{\numberline {2}Design}{17}
+\contentsline {section}{\numberline {2.1}Overall system design}{17}
+\contentsline {section}{\numberline {2.2}Description of modular system structure}{18}
+\contentsline {section}{\numberline {2.3}Design data dictionary}{19}
+\contentsline {section}{\numberline {2.4}Database design}{21}
+\contentsline {section}{\numberline {2.5}File organisation and processing}{22}
+\contentsline {section}{\numberline {2.6}Identification of storage media}{22}
+\contentsline {section}{\numberline {2.7}Identification of suitable algorithms for data transformation, and pseudocode of those algorithms}{22}
+\contentsline {section}{\numberline {2.8}Class definitions}{23}
+\contentsline {section}{\numberline {2.9}User interface rationale}{23}
+\contentsline {section}{\numberline {2.10}User interface sample of planned data capture and data entry designs}{24}
+\contentsline {section}{\numberline {2.11}User interface sample of planned output designs}{25}
+\contentsline {section}{\numberline {2.12}Description of measures planned for security and integrity of data}{25}
+\contentsline {section}{\numberline {2.13}Descriptions of measures planned for systems security}{26}
+\contentsline {section}{\numberline {2.14}Overall test strategy}{26}
+\contentsline {chapter}{\numberline {3}Testing}{27}
+\contentsline {section}{\numberline {3.1}Test plan}{27}
+\contentsline {section}{\numberline {3.2}Test data}{27}
+\contentsline {section}{\numberline {3.3}Test details}{28}
+\contentsline {section}{\numberline {3.4}Associated screenshots}{35}
+\contentsline {chapter}{\numberline {4}System Maintenance}{37}
+\contentsline {section}{\numberline {4.1}System overview}{37}
+\contentsline {section}{\numberline {4.2}Samples of forms and reports}{37}
+\contentsline {subsection}{\numberline {4.2.1}Forms}{37}
+\contentsline {subsection}{\numberline {4.2.2}Reports}{38}
+\contentsline {section}{\numberline {4.3}A sample of detailed algorithm design}{38}
+\contentsline {section}{\numberline {4.4}Procedure, function and variable lists}{39}
+\contentsline {subsection}{\numberline {4.4.1}Procedures and functions}{39}
+\contentsline {subsubsection}{\numberline {4.4.1.1}frmLoginForm}{39}
+\contentsline {subsubsection}{\numberline {4.4.1.2}frmMainMenu}{39}
+\contentsline {subsubsection}{\numberline {4.4.1.3}frmAdd}{40}
+\contentsline {subsubsection}{\numberline {4.4.1.4}frmAddCustomer}{40}
+\contentsline {subsubsection}{\numberline {4.4.1.5}frmAddSupplier}{40}
+\contentsline {subsubsection}{\numberline {4.4.1.6}frmAddComponent}{40}
+\contentsline {subsubsection}{\numberline {4.4.1.7}frmRemove}{41}
+\contentsline {subsubsection}{\numberline {4.4.1.8}frmRemoveCustomer}{41}
+\contentsline {subsubsection}{\numberline {4.4.1.9}frmRemoveSupplier}{41}
+\contentsline {subsubsection}{\numberline {4.4.1.10}frmRemoveComponent}{41}
+\contentsline {subsubsection}{\numberline {4.4.1.11}frmList}{42}
+\contentsline {subsubsection}{\numberline {4.4.1.12}frmListFullDetails}{42}
+\contentsline {subsubsection}{\numberline {4.4.1.13}frmReportMenu}{43}
+\contentsline {subsubsection}{\numberline {4.4.1.14}frmReportInvoice}{43}
+\contentsline {subsubsection}{\numberline {4.4.1.15}frmReportLog}{43}
+\contentsline {subsubsection}{\numberline {4.4.1.16}frmReportQuote}{43}
+\contentsline {subsubsection}{\numberline {4.4.1.17}frmReportSurvey}{44}
+\contentsline {subsubsection}{\numberline {4.4.1.18}frmSurveyForm}{44}
+\contentsline {subsubsection}{\numberline {4.4.1.19}frmSwankyCode}{44}
+\contentsline {subsection}{\numberline {4.4.2}Variables}{44}
+\contentsline {subsubsection}{\numberline {4.4.2.1}frmLoginForm}{44}
+\contentsline {subsubsection}{\numberline {4.4.2.2}frmMainMenu}{45}
+\contentsline {subsubsection}{\numberline {4.4.2.3}frmAdd}{45}
+\contentsline {subsubsection}{\numberline {4.4.2.4}frmAddCustomer}{45}
+\contentsline {subsubsection}{\numberline {4.4.2.5}frmAddSupplier}{47}
+\contentsline {subsubsection}{\numberline {4.4.2.6}frmAddComponent}{47}
+\contentsline {subsubsection}{\numberline {4.4.2.7}frmRemove}{49}
+\contentsline {subsubsection}{\numberline {4.4.2.8}frmRemoveCustomer}{49}
+\contentsline {subsubsection}{\numberline {4.4.2.9}frmRemoveSupplier}{50}
+\contentsline {subsubsection}{\numberline {4.4.2.10}frmRemoveComponent}{50}
+\contentsline {subsubsection}{\numberline {4.4.2.11}frmList}{51}
+\contentsline {subsubsection}{\numberline {4.4.2.12}frmListFullDetails}{53}
+\contentsline {subsubsection}{\numberline {4.4.2.13}frmReportMenu}{55}
+\contentsline {subsubsection}{\numberline {4.4.2.14}frmReportInvoice}{55}
+\contentsline {subsubsection}{\numberline {4.4.2.15}frmReportLog}{56}
+\contentsline {subsubsection}{\numberline {4.4.2.16}frmReportQuote}{57}
+\contentsline {subsubsection}{\numberline {4.4.2.17}frmReportSurvey}{57}
+\contentsline {subsubsection}{\numberline {4.4.2.18}frmSurveyForm}{58}
+\contentsline {subsubsection}{\numberline {4.4.2.19}frmSwankyCode}{59}
+\contentsline {section}{\numberline {4.5}Annotated list of program code}{60}
+\contentsline {subsection}{\numberline {4.5.1}frmLoginForm}{60}
+\contentsline {subsection}{\numberline {4.5.2}frmMainMenu}{61}
+\contentsline {subsection}{\numberline {4.5.3}frmAdd}{63}
+\contentsline {subsection}{\numberline {4.5.4}frmAddCustomer}{64}
+\contentsline {subsection}{\numberline {4.5.5}frmAddSupplier}{67}
+\contentsline {subsection}{\numberline {4.5.6}frmAddComponent}{69}
+\contentsline {subsection}{\numberline {4.5.7}frmRemove}{71}
+\contentsline {subsection}{\numberline {4.5.8}frmRemoveCustomer}{72}
+\contentsline {subsection}{\numberline {4.5.9}frmRemoveSupplier}{74}
+\contentsline {subsection}{\numberline {4.5.10}frmRemoveComponent}{76}
+\contentsline {subsection}{\numberline {4.5.11}frmList}{78}
+\contentsline {subsection}{\numberline {4.5.12}frmListFullDetails}{83}
+\contentsline {subsection}{\numberline {4.5.13}frmReportMenu}{87}
+\contentsline {subsection}{\numberline {4.5.14}frmReportInvoice}{88}
+\contentsline {subsection}{\numberline {4.5.15}frmReportQuote}{90}
+\contentsline {subsection}{\numberline {4.5.16}frmReportLog}{91}
+\contentsline {subsection}{\numberline {4.5.17}frmReportSurvey}{93}
+\contentsline {subsection}{\numberline {4.5.18}frmSurveyForm}{94}
+\contentsline {subsection}{\numberline {4.5.19}frmSwankyCode}{95}
+\contentsline {chapter}{\numberline {5}User Manual}{99}
+\contentsline {section}{\numberline {5.1}Introduction}{99}
+\contentsline {section}{\numberline {5.2}Usage instructions}{99}
+\contentsline {subsection}{\numberline {5.2.1}Installing the program}{99}
+\contentsline {subsection}{\numberline {5.2.2}Launching the program}{100}
+\contentsline {subsection}{\numberline {5.2.3}Logging in}{100}
+\contentsline {subsection}{\numberline {5.2.4}The main menu}{101}
+\contentsline {subsection}{\numberline {5.2.5}Adding customers, suppliers, or components}{101}
+\contentsline {subsubsection}{\numberline {5.2.5.1}Customers}{101}
+\contentsline {subsubsection}{\numberline {5.2.5.2}Suppliers}{102}
+\contentsline {subsubsection}{\numberline {5.2.5.3}Components}{103}
+\contentsline {subsection}{\numberline {5.2.6}Removing customers, suppliers, or components}{104}
+\contentsline {subsubsection}{\numberline {5.2.6.1}Customers}{104}
+\contentsline {subsubsection}{\numberline {5.2.6.2}Suppliers}{104}
+\contentsline {subsubsection}{\numberline {5.2.6.3}Components}{105}
+\contentsline {subsection}{\numberline {5.2.7}Listing customers, suppliers, or components}{105}
+\contentsline {subsubsection}{\numberline {5.2.7.1}Customers}{106}
+\contentsline {subsubsection}{\numberline {5.2.7.2}Suppliers}{107}
+\contentsline {subsubsection}{\numberline {5.2.7.3}Components}{108}
+\contentsline {subsection}{\numberline {5.2.8}Reports}{109}
+\contentsline {subsubsection}{\numberline {5.2.8.1}The log forms}{110}
+\contentsline {subsubsection}{\numberline {5.2.8.2}The quotations}{110}
+\contentsline {subsubsection}{\numberline {5.2.8.3}The invoices}{111}
+\contentsline {subsubsection}{\numberline {5.2.8.4}The surveys}{111}
+\contentsline {subsection}{\numberline {5.2.9}Error handling}{112}
+\contentsline {chapter}{\numberline {6}Appraisal}{115}
+\contentsline {section}{\numberline {6.1}Comparison of project performance against numbered general and specific objectives}{115}
+\contentsline {section}{\numberline {6.2}User feedback authenticated by the assessor}{120}
+\contentsline {section}{\numberline {6.3}Analysis of user feedback}{120}
+\contentsline {section}{\numberline {6.4}Possible extensions}{121}
+\contentsline {chapter}{\numberline {7}References}{123}
+\contentsline {section}{\numberline {7.1}VB.Net}{123}
+\contentsline {section}{\numberline {7.2}Software}{123}
+\contentsline {section}{\numberline {7.3}3rd party code libraries}{123}

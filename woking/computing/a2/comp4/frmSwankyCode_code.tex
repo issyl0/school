@@ -1,0 +1,199 @@
+\makeatletter
+\def\PY@reset{\let\PY@it=\relax \let\PY@bf=\relax%
+    \let\PY@ul=\relax \let\PY@tc=\relax%
+    \let\PY@bc=\relax \let\PY@ff=\relax}
+\def\PY@tok#1{\csname PY@tok@#1\endcsname}
+\def\PY@toks#1+{\ifx\relax#1\empty\else%
+    \PY@tok{#1}\expandafter\PY@toks\fi}
+\def\PY@do#1{\PY@bc{\PY@tc{\PY@ul{%
+    \PY@it{\PY@bf{\PY@ff{#1}}}}}}}
+\def\PY#1#2{\PY@reset\PY@toks#1+\relax+\PY@do{#2}}
+
+\expandafter\def\csname PY@tok@gd\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.63,0.00,0.00}{##1}}}
+\expandafter\def\csname PY@tok@gu\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.50,0.00,0.50}{##1}}}
+\expandafter\def\csname PY@tok@gt\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.00,0.25,0.82}{##1}}}
+\expandafter\def\csname PY@tok@gs\endcsname{\let\PY@bf=\textbf}
+\expandafter\def\csname PY@tok@gr\endcsname{\def\PY@tc##1{\textcolor[rgb]{1.00,0.00,0.00}{##1}}}
+\expandafter\def\csname PY@tok@cm\endcsname{\let\PY@it=\textit\def\PY@tc##1{\textcolor[rgb]{0.25,0.50,0.50}{##1}}}
+\expandafter\def\csname PY@tok@vg\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.10,0.09,0.49}{##1}}}
+\expandafter\def\csname PY@tok@m\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.40,0.40,0.40}{##1}}}
+\expandafter\def\csname PY@tok@mh\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.40,0.40,0.40}{##1}}}
+\expandafter\def\csname PY@tok@go\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.50,0.50,0.50}{##1}}}
+\expandafter\def\csname PY@tok@ge\endcsname{\let\PY@it=\textit}
+\expandafter\def\csname PY@tok@vc\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.10,0.09,0.49}{##1}}}
+\expandafter\def\csname PY@tok@il\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.40,0.40,0.40}{##1}}}
+\expandafter\def\csname PY@tok@cs\endcsname{\let\PY@it=\textit\def\PY@tc##1{\textcolor[rgb]{0.25,0.50,0.50}{##1}}}
+\expandafter\def\csname PY@tok@cp\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.74,0.48,0.00}{##1}}}
+\expandafter\def\csname PY@tok@gi\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.00,0.63,0.00}{##1}}}
+\expandafter\def\csname PY@tok@gh\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.00,0.00,0.50}{##1}}}
+\expandafter\def\csname PY@tok@ni\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.60,0.60,0.60}{##1}}}
+\expandafter\def\csname PY@tok@nl\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.63,0.63,0.00}{##1}}}
+\expandafter\def\csname PY@tok@nn\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.00,0.00,1.00}{##1}}}
+\expandafter\def\csname PY@tok@no\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.53,0.00,0.00}{##1}}}
+\expandafter\def\csname PY@tok@na\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.49,0.56,0.16}{##1}}}
+\expandafter\def\csname PY@tok@nb\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.00,0.50,0.00}{##1}}}
+\expandafter\def\csname PY@tok@nc\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.00,0.00,1.00}{##1}}}
+\expandafter\def\csname PY@tok@nd\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.67,0.13,1.00}{##1}}}
+\expandafter\def\csname PY@tok@ne\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.82,0.25,0.23}{##1}}}
+\expandafter\def\csname PY@tok@nf\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.00,0.00,1.00}{##1}}}
+\expandafter\def\csname PY@tok@si\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.73,0.40,0.53}{##1}}}
+\expandafter\def\csname PY@tok@s2\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.73,0.13,0.13}{##1}}}
+\expandafter\def\csname PY@tok@vi\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.10,0.09,0.49}{##1}}}
+\expandafter\def\csname PY@tok@nt\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.00,0.50,0.00}{##1}}}
+\expandafter\def\csname PY@tok@nv\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.10,0.09,0.49}{##1}}}
+\expandafter\def\csname PY@tok@s1\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.73,0.13,0.13}{##1}}}
+\expandafter\def\csname PY@tok@sh\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.73,0.13,0.13}{##1}}}
+\expandafter\def\csname PY@tok@sc\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.73,0.13,0.13}{##1}}}
+\expandafter\def\csname PY@tok@sx\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.00,0.50,0.00}{##1}}}
+\expandafter\def\csname PY@tok@bp\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.00,0.50,0.00}{##1}}}
+\expandafter\def\csname PY@tok@c1\endcsname{\let\PY@it=\textit\def\PY@tc##1{\textcolor[rgb]{0.25,0.50,0.50}{##1}}}
+\expandafter\def\csname PY@tok@kc\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.00,0.50,0.00}{##1}}}
+\expandafter\def\csname PY@tok@c\endcsname{\let\PY@it=\textit\def\PY@tc##1{\textcolor[rgb]{0.25,0.50,0.50}{##1}}}
+\expandafter\def\csname PY@tok@mf\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.40,0.40,0.40}{##1}}}
+\expandafter\def\csname PY@tok@err\endcsname{\def\PY@bc##1{\setlength{\fboxsep}{0pt}\fcolorbox[rgb]{1.00,0.00,0.00}{1,1,1}{\strut ##1}}}
+\expandafter\def\csname PY@tok@kd\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.00,0.50,0.00}{##1}}}
+\expandafter\def\csname PY@tok@ss\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.10,0.09,0.49}{##1}}}
+\expandafter\def\csname PY@tok@sr\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.73,0.40,0.53}{##1}}}
+\expandafter\def\csname PY@tok@mo\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.40,0.40,0.40}{##1}}}
+\expandafter\def\csname PY@tok@kn\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.00,0.50,0.00}{##1}}}
+\expandafter\def\csname PY@tok@mi\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.40,0.40,0.40}{##1}}}
+\expandafter\def\csname PY@tok@gp\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.00,0.00,0.50}{##1}}}
+\expandafter\def\csname PY@tok@o\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.40,0.40,0.40}{##1}}}
+\expandafter\def\csname PY@tok@kr\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.00,0.50,0.00}{##1}}}
+\expandafter\def\csname PY@tok@s\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.73,0.13,0.13}{##1}}}
+\expandafter\def\csname PY@tok@kp\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.00,0.50,0.00}{##1}}}
+\expandafter\def\csname PY@tok@w\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.73,0.73,0.73}{##1}}}
+\expandafter\def\csname PY@tok@kt\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.69,0.00,0.25}{##1}}}
+\expandafter\def\csname PY@tok@ow\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.67,0.13,1.00}{##1}}}
+\expandafter\def\csname PY@tok@sb\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.73,0.13,0.13}{##1}}}
+\expandafter\def\csname PY@tok@k\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.00,0.50,0.00}{##1}}}
+\expandafter\def\csname PY@tok@se\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.73,0.40,0.13}{##1}}}
+\expandafter\def\csname PY@tok@sd\endcsname{\let\PY@it=\textit\def\PY@tc##1{\textcolor[rgb]{0.73,0.13,0.13}{##1}}}
+
+\def\PYZbs{\char`\\}
+\def\PYZus{\char`\_}
+\def\PYZob{\char`\{}
+\def\PYZcb{\char`\}}
+\def\PYZca{\char`\^}
+\def\PYZam{\char`\&}
+\def\PYZlt{\char`\<}
+\def\PYZgt{\char`\>}
+\def\PYZsh{\char`\#}
+\def\PYZpc{\char`\%}
+\def\PYZdl{\char`\$}
+\def\PYZti{\char`\~}
+% for compatibility with earlier versions
+\def\PYZat{@}
+\def\PYZlb{[}
+\def\PYZrb{]}
+\makeatother
+
+\begin{Verbatim}[commandchars=\\\{\}]
+\PY{k}{Imports} \PY{n+nn}{Microsoft.Office.Core}
+\PY{k}{Imports} \PY{n+nn}{Microsoft.Office.Interop}
+\PY{k}{Imports} \PY{n+nn}{Microsoft.Office.Interop.Word}
+
+\PY{k}{Public} \PY{k}{Class} \PY{n+nc}{frmSwankyCode}
+
+    \PY{c}{'This is a form because I couldn't work out how to make it work any}
+    \PY{c}{'other way.}
+
+    \PY{c}{'This is where all the code goes that is referenced from other subs}
+    \PY{c}{'in other forms, to save space and attempt to minimise repetition.}
+
+    \PY{k}{Public} \PY{k}{Sub} \PY{n+nf}{CheckAdditions}\PY{p}{(}\PY{k}{ByVal} \PY{n}{intInsert} \PY{o+ow}{As} \PY{k+kt}{Integer}\PY{p}{,} \PY{n}{\PYZus{}}
+                              \PY{k}{ByRef} \PY{n}{btnSave} \PY{o+ow}{As} \PY{n}{Button}\PY{p}{)}
+
+        \PY{k}{If} \PY{n}{intInsert} \PY{o}{=} \PY{l+m+mi}{0} \PY{k}{Then}
+            \PY{n}{MsgBox}\PY{p}{(}\PY{l+s}{"}\PY{l+s}{Data insertion failed.}\PY{l+s}{"}\PY{p}{)}
+        \PY{k}{Else}
+            \PY{c}{'Assume it went through OK and disable the Save button to}
+            \PY{c}{'guard against duplication.}
+            \PY{n}{btnSave}\PY{p}{.}\PY{n}{Enabled} \PY{o}{=} \PY{k}{False}
+        \PY{k}{End} \PY{k}{If}
+
+    \PY{k}{End} \PY{k}{Sub}
+
+    \PY{k}{Public} \PY{k}{Sub} \PY{n+nf}{WordInvoiceAutomationMagic}\PY{p}{(}\PY{k}{ByVal} \PY{n}{ict} \PY{o+ow}{As} \PY{k+kt}{String}\PY{p}{,} \PY{k}{ByVal} \PY{n}{icn} \PY{o+ow}{As} \PY{k+kt}{String}\PY{p}{,} \PY{n}{\PYZus{}}
+                                   \PY{k}{ByVal} \PY{n}{ica} \PY{o+ow}{As} \PY{k+kt}{String}\PY{p}{,} \PY{k}{ByVal} \PY{n}{icp} \PY{o+ow}{As} \PY{k+kt}{String}\PY{p}{)}
+
+        \PY{c}{'THIS CODE SATISFIES SPECIFIC OBJECTIVE 14.}
+
+        \PY{k}{Dim} \PY{n}{oWord} \PY{o+ow}{As} \PY{n}{Word}\PY{p}{.}\PY{n}{Application}
+        \PY{k}{Dim} \PY{n}{oDoc} \PY{o+ow}{As} \PY{n}{Word}\PY{p}{.}\PY{n}{Document}
+        \PY{k}{Dim} \PY{n}{CustAddressStuff} \PY{o+ow}{As} \PY{n}{Word}\PY{p}{.}\PY{n}{Paragraph}
+        \PY{k}{Dim} \PY{n}{CustInvoiceHeader} \PY{o+ow}{As} \PY{n}{Word}\PY{p}{.}\PY{n}{Paragraph}
+
+        \PY{c}{'Start Word and open the document.}
+        \PY{c}{'This is object stuff that I don't understand, but it was found on}
+        \PY{c}{'a Microsoft doc, and the other stuff I tried didn't work, so I}
+        \PY{c}{'used it.}
+        \PY{n}{oWord} \PY{o}{=} \PY{n}{CreateObject}\PY{p}{(}\PY{l+s}{"}\PY{l+s}{Word.Application}\PY{l+s}{"}\PY{p}{)}
+        \PY{n}{oWord}\PY{p}{.}\PY{n}{Visible} \PY{o}{=} \PY{k}{True}
+        \PY{n}{oDoc} \PY{o}{=} \PY{n}{oWord}\PY{p}{.}\PY{n}{Documents}\PY{p}{.}\PY{n}{Add}
+
+        \PY{c}{'Insert the customer billing address stuff.}
+        \PY{n}{CustAddressStuff} \PY{o}{=} \PY{n}{oDoc}\PY{p}{.}\PY{n}{Content}\PY{p}{.}\PY{n}{Paragraphs}\PY{p}{.}\PY{n}{Add}
+        \PY{n}{CustAddressStuff}\PY{p}{.}\PY{n}{Range}\PY{p}{.}\PY{n}{Text} \PY{o}{=} \PY{n}{ict} \PY{o}{\PYZam{}} \PY{l+s}{"}\PY{l+s}{ }\PY{l+s}{"} \PY{o}{\PYZam{}} \PY{n}{icn} \PY{o}{\PYZam{}} \PY{n}{Chr}\PY{p}{(}\PY{l+m+mi}{11}\PY{p}{)} \PY{o}{\PYZam{}} \PY{n}{ica} \PY{n}{\PYZus{}}
+                                      \PY{o}{\PYZam{}} \PY{n}{Chr}\PY{p}{(}\PY{l+m+mi}{11}\PY{p}{)} \PY{o}{\PYZam{}} \PY{n}{icp} \PY{o}{\PYZam{}} \PY{n}{Chr}\PY{p}{(}\PY{l+m+mi}{11}\PY{p}{)}
+        \PY{n}{CustAddressStuff}\PY{p}{.}\PY{n}{Range}\PY{p}{.}\PY{n}{ParagraphFormat}\PY{p}{.}\PY{n}{Alignment} \PY{o}{=} \PY{n}{\PYZus{}}
+            \PY{n}{Word}\PY{p}{.}\PY{n}{WdParagraphAlignment}\PY{p}{.}\PY{n}{wdAlignParagraphRight}
+        \PY{n}{CustAddressStuff}\PY{p}{.}\PY{n}{Range}\PY{p}{.}\PY{n}{Font}\PY{p}{.}\PY{n}{Bold} \PY{o}{=} \PY{k}{False}
+
+        \PY{c}{'Sort out the spacing afterwards.}
+        \PY{n}{CustAddressStuff}\PY{p}{.}\PY{n}{Format}\PY{p}{.}\PY{n}{SpaceAfter} \PY{o}{=} \PY{l+m+mi}{4}
+        \PY{n}{CustAddressStuff}\PY{p}{.}\PY{n}{Range}\PY{p}{.}\PY{n}{InsertParagraphAfter}\PY{p}{(}\PY{p}{)}
+
+        \PY{c}{'Now, after the spacing, the INVOICE header, centred.}
+        \PY{n}{CustInvoiceHeader} \PY{o}{=} \PY{n}{\PYZus{}}
+            \PY{n}{oDoc}\PY{p}{.}\PY{n}{Content}\PY{p}{.}\PY{n}{Paragraphs}\PY{p}{.}\PY{n}{Add}\PY{p}{(}\PY{n}{oDoc}\PY{p}{.}\PY{n}{Bookmarks}\PY{p}{.}\PY{n}{Item}\PY{p}{(}\PY{l+s}{"}\PY{l+s}{\PYZbs{}endofdoc}\PY{l+s}{"}\PY{p}{)}\PY{p}{.}\PY{n}{Range}\PY{p}{)}
+        \PY{n}{CustInvoiceHeader}\PY{p}{.}\PY{n}{Range}\PY{p}{.}\PY{n}{Text} \PY{o}{=} \PY{l+s}{"}\PY{l+s}{INVOICE}\PY{l+s}{"}
+        \PY{n}{CustInvoiceHeader}\PY{p}{.}\PY{n}{Range}\PY{p}{.}\PY{n}{ParagraphFormat}\PY{p}{.}\PY{n}{Alignment} \PY{o}{=} \PY{n}{\PYZus{}}
+            \PY{n}{Word}\PY{p}{.}\PY{n}{WdParagraphAlignment}\PY{p}{.}\PY{n}{wdAlignParagraphCenter}
+        \PY{n}{CustInvoiceHeader}\PY{p}{.}\PY{n}{Range}\PY{p}{.}\PY{n}{Font}\PY{p}{.}\PY{n}{Size} \PY{o}{=} \PY{l+m+mi}{22}
+        \PY{n}{CustInvoiceHeader}\PY{p}{.}\PY{n}{Range}\PY{p}{.}\PY{n}{Font}\PY{p}{.}\PY{n}{Bold} \PY{o}{=} \PY{k}{True}
+
+    \PY{k}{End} \PY{k}{Sub}
+
+    \PY{k}{Public} \PY{k}{Sub} \PY{n+nf}{WordQuotationAutomationMagic}\PY{p}{(}\PY{k}{ByVal} \PY{n}{qct} \PY{o+ow}{As} \PY{k+kt}{String}\PY{p}{,} \PY{k}{ByVal} \PY{n}{qcn} \PY{o+ow}{As} \PY{k+kt}{String}\PY{p}{,} \PY{n}{\PYZus{}}
+                                   \PY{k}{ByVal} \PY{n}{qca} \PY{o+ow}{As} \PY{k+kt}{String}\PY{p}{,} \PY{k}{ByVal} \PY{n}{qcp} \PY{o+ow}{As} \PY{k+kt}{String}\PY{p}{)}
+
+        \PY{c}{'THIS CODE SATISFIES SPECIFIC OBJECTIVE 14.}
+
+        \PY{k}{Dim} \PY{n}{oWord} \PY{o+ow}{As} \PY{n}{Word}\PY{p}{.}\PY{n}{Application}
+        \PY{k}{Dim} \PY{n}{oDoc} \PY{o+ow}{As} \PY{n}{Word}\PY{p}{.}\PY{n}{Document}
+        \PY{k}{Dim} \PY{n}{CustAddressStuff} \PY{o+ow}{As} \PY{n}{Word}\PY{p}{.}\PY{n}{Paragraph}
+        \PY{k}{Dim} \PY{n}{CustQuotationHeader} \PY{o+ow}{As} \PY{n}{Word}\PY{p}{.}\PY{n}{Paragraph}
+
+        \PY{c}{'Start Word and open the document.}
+        \PY{c}{'This is object stuff that I don't understand, but it was found on}
+        \PY{c}{'a Microsoft doc, and the other stuff I tried didn't work, so I}
+        \PY{c}{'used it.}
+        \PY{n}{oWord} \PY{o}{=} \PY{n}{CreateObject}\PY{p}{(}\PY{l+s}{"}\PY{l+s}{Word.Application}\PY{l+s}{"}\PY{p}{)}
+        \PY{n}{oWord}\PY{p}{.}\PY{n}{Visible} \PY{o}{=} \PY{k}{True}
+        \PY{n}{oDoc} \PY{o}{=} \PY{n}{oWord}\PY{p}{.}\PY{n}{Documents}\PY{p}{.}\PY{n}{Add}
+
+        \PY{c}{'Insert the customer billing address stuff.}
+        \PY{n}{CustAddressStuff} \PY{o}{=} \PY{n}{oDoc}\PY{p}{.}\PY{n}{Content}\PY{p}{.}\PY{n}{Paragraphs}\PY{p}{.}\PY{n}{Add}
+        \PY{n}{CustAddressStuff}\PY{p}{.}\PY{n}{Range}\PY{p}{.}\PY{n}{Text} \PY{o}{=} \PY{n}{qct} \PY{o}{\PYZam{}} \PY{l+s}{"}\PY{l+s}{ }\PY{l+s}{"} \PY{o}{\PYZam{}} \PY{n}{qcn} \PY{o}{\PYZam{}} \PY{n}{Chr}\PY{p}{(}\PY{l+m+mi}{11}\PY{p}{)} \PY{o}{\PYZam{}} \PY{n}{qca} \PY{n}{\PYZus{}}
+                                      \PY{o}{\PYZam{}} \PY{n}{Chr}\PY{p}{(}\PY{l+m+mi}{11}\PY{p}{)} \PY{o}{\PYZam{}} \PY{n}{qcp} \PY{o}{\PYZam{}} \PY{n}{Chr}\PY{p}{(}\PY{l+m+mi}{11}\PY{p}{)}
+        \PY{n}{CustAddressStuff}\PY{p}{.}\PY{n}{Range}\PY{p}{.}\PY{n}{ParagraphFormat}\PY{p}{.}\PY{n}{Alignment} \PY{o}{=} \PY{n}{\PYZus{}}
+            \PY{n}{Word}\PY{p}{.}\PY{n}{WdParagraphAlignment}\PY{p}{.}\PY{n}{wdAlignParagraphRight}
+        \PY{n}{CustAddressStuff}\PY{p}{.}\PY{n}{Range}\PY{p}{.}\PY{n}{Font}\PY{p}{.}\PY{n}{Bold} \PY{o}{=} \PY{k}{False}
+
+        \PY{c}{'Sort out the spacing afterwards.}
+        \PY{n}{CustAddressStuff}\PY{p}{.}\PY{n}{Format}\PY{p}{.}\PY{n}{SpaceAfter} \PY{o}{=} \PY{l+m+mi}{4}
+        \PY{n}{CustAddressStuff}\PY{p}{.}\PY{n}{Range}\PY{p}{.}\PY{n}{InsertParagraphAfter}\PY{p}{(}\PY{p}{)}
+
+        \PY{c}{'Now, after the spacing, the Quotation header, centred.}
+        \PY{n}{CustQuotationHeader} \PY{o}{=} \PY{n}{\PYZus{}}
+            \PY{n}{oDoc}\PY{p}{.}\PY{n}{Content}\PY{p}{.}\PY{n}{Paragraphs}\PY{p}{.}\PY{n}{Add}\PY{p}{(}\PY{n}{oDoc}\PY{p}{.}\PY{n}{Bookmarks}\PY{p}{.}\PY{n}{Item}\PY{p}{(}\PY{l+s}{"}\PY{l+s}{\PYZbs{}endofdoc}\PY{l+s}{"}\PY{p}{)}\PY{p}{.}\PY{n}{Range}\PY{p}{)}
+        \PY{n}{CustQuotationHeader}\PY{p}{.}\PY{n}{Range}\PY{p}{.}\PY{n}{Text} \PY{o}{=} \PY{l+s}{"}\PY{l+s}{QUOTATION}\PY{l+s}{"}
+        \PY{n}{CustQuotationHeader}\PY{p}{.}\PY{n}{Range}\PY{p}{.}\PY{n}{ParagraphFormat}\PY{p}{.}\PY{n}{Alignment} \PY{o}{=} \PY{n}{\PYZus{}}
+            \PY{n}{Word}\PY{p}{.}\PY{n}{WdParagraphAlignment}\PY{p}{.}\PY{n}{wdAlignParagraphCenter}
+        \PY{n}{CustQuotationHeader}\PY{p}{.}\PY{n}{Range}\PY{p}{.}\PY{n}{Font}\PY{p}{.}\PY{n}{Size} \PY{o}{=} \PY{l+m+mi}{22}
+        \PY{n}{CustQuotationHeader}\PY{p}{.}\PY{n}{Range}\PY{p}{.}\PY{n}{Font}\PY{p}{.}\PY{n}{Bold} \PY{o}{=} \PY{k}{True}
+
+    \PY{k}{End} \PY{k}{Sub}
+\PY{k}{End} \PY{k}{Class}
+\end{Verbatim}

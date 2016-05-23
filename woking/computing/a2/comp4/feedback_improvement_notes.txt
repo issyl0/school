@@ -1,0 +1,5 @@
+-- COMP4.
+
+	-- Implement searching: SQL query 'SELECT * FROM [Cust|Supp|Comp]WHERE name = ' & searchString & ' ORDER BY name''.
+	-- Add a textbox at the top of the List form for searching - or another form?
+	-- Mention this in the user needs section of the analysis.

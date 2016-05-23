@@ -1,0 +1,152 @@
+Category,Country,Code,Product,Stock,Reorder,Price,Special,Notes
+Tea,India,272,Singbulli Champagne Oolong,24,50,16,Y,Prepared by hand with the finest leaves
+Tea,India,347, Phuguri Supreme ,27,50,16,Y,An aroma that evokes the pure air of the Himalayas
+Tea,India,348,Tumsong Supreme ,34,50,16,Y,Exceptionally complex flavour reminding one of blackcurrant bushes and muscatel wine
+Tea,India,349,Pussimbing Supreme  ,29,50,16,Y,An outstanding flavoured tea with the bonus of also being organic
+Tea,India,3,Phuguri F.T.G.F.O.P ,223,50,8.5,N,
+Tea,India,5,Goomtee F.T.G.F.O.P,379,50,8,N,
+Tea,India,6,Risheehat F.T.G.F.O.P,98,50,6.4,N,
+Tea,India,7,Makaibari Organic F.T.G.F.O.P,32,50,4.9,N,
+Tea,India,8,Bannockburn F.T.G.F.O.P,11,50,5,N,
+Tea,India,9,Chamong Organic F.T.G.F.O.P,119,50,4,N,
+Tea,India,10,Singell F.T.G.F.O.P ,223,50,3.8,N,
+Tea,India,292,Ambootia Organic T.G.F.O.P,292,50,3.8,N,Organic
+Tea,India,12,Phoobsering F.T.G.F.O.P,126,50,2.6,N,
+Tea,India,13,Badamtam F.T.G.F.O.P ,259,50,2.3,N,
+Tea,India,15,St. Margarets Hope S.F.T.G.F.O.P ,282,50,9,N,
+Tea,India,17,Sungma F.T.G.F.O.P,171,50,7.2,N,Made from leaves picked at the peak of summer
+Tea,India,18, Balasun F.T.G.F.O.P,135,50,6,N,Highly aromatic with a sparkling flavour
+Tea,India,293,Singell Organic S.F.T.G.F.O.P ,248,50,5.2,N,Full bodied fruity infusion with the taste full of the sun
+Tea,India,20,Kaley Valley S.F.T.G.F.O.P,80,50,5.2,N,A light and refreshing infusion due to its beautifully crafted tippy leaf
+Tea,India,294,Castleton F.T.G.F.O.P,78,50,4.8,N,One of the most renowned gardens in Darjeeling that fetches unbelievable prices in Japanese tea shops
+Tea,India,21,Tukvar F.T.G.F.O.P ,132,50,4,N,
+Tea,India,22,St Margarets Hope F.T.G.F.O.P ,252,50,4.3,N,
+Tea,India,23,Ging F.T.G.F.O.P,318,50,3.2,N,
+Tea,India,295,Happy Valley F.T.G.F.O.P,392,50,3.2,N,
+Tea,India,25,Singbulli T.G.F.O.P ,226,50,2.6,N,
+Tea,India,26,Selimbong F.T.G.F.O.P ,58,50,4.6,N,From the top of the autumn harvest darker mellow and fruity
+Tea,India,27,Upper Namring F.T.G.F.O.P,121,50,2.6,N,
+Tea,India,37,Madoorie Golden Tips  ,15,50,24,Y,This tea is not available anywhere but ICT Teas making it the world's most exclusive speciality
+Tea,India,39,Hajua ‘Shelter of the Swans’ S.F.T.G.F.O.P ,365,50,9.5,N,This garden produces wonderfully tippy hand twisted leaves but unfortunately in very small amounts
+Tea,India,302,Nahorabi S.F.T.G.F.O.P. ,215,50,8,N,The definitive malty Assam character and luscious body is epitomised in this exquisite tea which is a rival for the title of 'Supreme' Assam
+Tea,India,42,Joonktollee S.F.T.G.F.O.P ,497,50,6.4,N,Abundant gold tips and smooth liquor
+Tea,India,43,Mangalam S.F.T.G.F.O.P ,163,50,6,N,Rich ripe infusion and fine body
+Tea,India,45,Harmutty S.T.G.F.O.P,185,50,4.8,N,
+Tea,India,46,Hajua S.F.T.G.F.O.P ,61,50,4.2,N,Good value for every day drinking yet still malty and smooth
+Tea,India,47,Thowra T.G.F.O.P ,150,50,4.8,N,
+Tea,India,48,Khongea F.T.G.F.B.O.P ,350,50,4.6,N,
+Tea,India,49,Tippuk T.G.F.O.P ,67,50,3.6,N,
+Tea,India,50,Hunwal T.G.F.O.P,47,50,3.8,N,
+Tea,India,52,Maijan T.G.F.O.P ,162,50,3.6,N,
+Tea,India,53,Koomsong T.G.F.O.P,67,50,3.3,N,
+Tea,India,54,Margherita G.F.B.O.P,453,50,3.3,N,
+Tea,India,55,Nahorani T.G.F.O.P ,106,50,3.6,N,
+Tea,India,56, Maud F.B.O.P,119,50,3.5,N,
+Tea,India,57,Bhooteachang F.B.O.P ,273,50,3.4,N,
+Tea,India,59,Dhelakat T.G.F.O.P ,418,50,2.4,N,
+Tea,India,60,Zaloni G.F.B.O.P,33,50,2.3,N,
+Tea,India,61,Sonabheel F.B.O.P,217,50,2.4,N,
+Tea,India,63,Sepon G.B.O.P ,408,50,2.3,N,
+Tea,India,64,Dimakusi C.T.C.B.O.P ,125,50,2.2,N,
+Tea,India,318,Assam Decaffeinated ,419,50,4.4,N,Decaffeinated using a safe method which also leaves more flavour quality in the leaf
+Tea,India,29,Sikkim Temi F.T.G.F.O.P,19,50,4.9,N,Very fine bouquet and delicate liquor from a breathtaking garden that rivals Darjeeling
+Tea,India,31,Dooars Satali F.T.G.F.O.P ,1,50,3.3,N,
+Tea,India,34,Nepal Maloom F.T.G.F.O.P ,231,50,5.8,N,Delicate infusion from the 'Top of the World'
+Tea,India,33,Nepal Kanyam G.F.O.P,171,50,2.8,N,
+Tea,India,35,Nilgiri Thiashola F.O.P ,164,50,3.8,N,An exceptional mellow tea with a smooyh full-bodied infusion
+Tea,India,36,Nilgiri Parkside F.O.P ,230,50,2,N,
+Tea,Ceylon,275,Precious Jewel ,121,50,5,N,A rare tea with a smooth malty character and richness reminiscent of finest Assam with a very elegant leaf edged with silver
+Tea,Ceylon,74,Highland Organic ,450,50,3.3,N,Clean and fruity
+Tea,Ceylon,76,Pettiagalla O.P ,53,50,2.3,N,Classic favourite afternoon or lighter breakfast tea
+Tea,Ceylon,77,Mahadowa B.O.P,50,50,2.2,N,
+Tea,Ceylon,78,Waulugalla F.O.P ,160,50,2.7,N,
+Tea,Ceylon,79,Ruhunu O.P ,77,50,1.9,N,
+Tea,Ceylon,80,Matale Curly Pekoe ,480,50,1.8,N,
+Tea,Ceylon,84,Montecristo B.O.P ,101,50,2.3,N,
+Tea,Ceylon,66,Dyraaba O.P ,157,50,3.3,N,Full bodied fine aroma
+Tea,Ceylon,67,Kenilworth O.P,105,50,3.5,N,Very rounded flavour
+Tea,Ceylon,68,Dotel Oya O.P ,315,50,2.8,N,
+Tea,Ceylon,70, Dickwella B.O.P ,341,50,2.3,N,Fruity aroma good body and pale colour
+Tea,Ceylon,71,Shawlands O.P ,265,50,2.6,N,An exceptional infusion
+Tea,Ceylon,72,Meddecombra O.P ,304,50,2.2,N,
+Tea,Ceylon,73,El Teb F.B.O.P ,499,50,2,N,
+Tea,Ceylon,65,Koslanda O.P ,114,50,4,N,Organic production and a fine flavour
+Tea,Ceylon,351,Pedro Garden ,189,50,4,N,Grown high up on a plateau this unusual Ceylon is reminiscent of a good first flush Darjeeling with its yellow cup and fresh yet soft taste
+Tea,Ceylon,81,Battalgalla O.P,428,50,2.5,N,Highest growing area of Nuwara Eliya - Light and refreshing
+Tea,Ceylon,82,Lovers Leap B.O.P ,136,50,1.9,N,Famous picturesque estate
+Tea,Ceylon,83,Liddesdale B.O.P ,76,50,1.9,N,
+Tea,Kenya,85,Kenya Kaproret G.F.O.P ,174,50,2.5,N,Dark gold infusion - Bright flavour
+Tea,Kenya,87,Kenya Marinyn G.F.B.O.P ,458,50,2.3,N,
+Tea,Tanzania,89,Tanzanian B.O.P ,25,50,2,N,
+Tea,Java,91,Java Pasir Nangka O.P,237,50,3.4,N,Sparkling refreshing infusion
+Tea,Georgia,93,Georgian O.P,153,50,1.5,N,Unique sweetish flavour
+Tea,China,97, Jun Shan Silver Needles ,10,50,113,Y,
+Tea,China,309,Lions Peak Imperial Dragon Well (Lung Ching),10,50,70,Y,
+Tea,China,310,Anji April Snow ,10,50,72,Y,
+Tea,China,304,Jin Shang Tian Hua  ,10,50,30,Y,
+Tea,China,305,Hai Bei Tu Zhu ,10,50,30,Y,
+Tea,China,301,Ring of Jade  ,10,50,22,Y,
+Tea,China,303,Douyun Golden Spiral ,10,50,20,Y,
+Tea,China,313, Gu Zhu Violet Shoots,10,50,17,Y,
+Tea,China,316,Buddha Mountain Jade Kiss  ,10,50,17,Y,
+Tea,China,98,Yellow Mountain Green Tea Rose ,10,50,17,Y,
+Tea,China,99,Yellow Mountain Golden Spears ,10,50,17,Y,
+Tea,China,306,Tiantang Emerald Cloud,10,50,16,Y,
+Tea,China,100,Tai Ping Hou Kui,10,50,17,Y,
+Tea,China,276,Yin Zhen White Crystal ,10,50,30,Y,
+Tea,China,320, Xin Yang Moon Dew,10,50,16,Y,The finest growth on offer from the height of the second flush season with a divine muscatel and blackcurrant character - a rarity
+Tea,China,319,Golden Delta Cha ,239,50,13,N,
+Tea,China,106,Hubei Silvery Strawberry Tea ,434,50,12,N,
+Tea,China,307,Huiming Temple Tea ,35,50,11.2,N,
+Tea,China,108, Ninety Nine Peak Mountain ,71,50,14,N,
+Tea,China,109,Yellow Spring Flower Awakening,443,50,14,N,
+Tea,China,112,Little Dragon Lung Ching ,140,50,6.8,N,
+Tea,China,114,Fire Mountain Silk Buds,300,50,11,N,
+Tea,China,115,Green DestinyTM ,322,50,6.8,N,
+Tea,China,117,Angels TearsTM ,180,50,7.5,N,
+Tea,China,119,Spiral of Spring Jade  ,10,50,16.5,Y,
+Tea,China,121,Fuchow White Monkey,312,50,7.5,N,
+Tea,China,122,Fuchow Snow Buds ,211,50,7.5,N,
+Tea,China,124,Gu Zhang Mao Jian ,35,50,4.6,N,
+Tea,China,125,Guangxi White Downy ,483,50,4.4,N,
+Tea,China,127,Tea of LifeTM ,279,50,4.4,N,
+Tea,China,128,Gunpowder Special Temple ,464,50,2.5,N,
+Tea,China,129,Chun Mee Special Temple,259,50,3.1,N,
+Tea,China,130, Wintertime Spice ,424,50,4.4,N,Warming refreshing reviving and festive - an antidote to over indulgence!
+Tea,China,131,Secret GardenTM ,304,50,4.4,N,Revives tired tastebuds and has a beautiful aroma
+Tea,China,134,Summertime Fruits ,82,50,4.4,N,A gentle blend of exotic fruits evoking balmy tropical evenings
+Tea,China,330,Strawberry ,128,50,4.4,N,The quintessential summer high tea
+Tea,China,138,Jasmine Yin Hao ,352,50,9.5,N,The best grade of Jasmine tea available grown in an area of outstanding natural beauty - a very delicate leaf that gives an exquisite infusion
+Tea,China,139,Jasmine Chung Hao ,241,50,5.2,N,Very high quality well made leaf - aromatic infusion
+Tea,China,140,Jasmine Monkey King,270,50,2.5,N,Our most economical yet far from ordinary offer
+Tea,China,271,Pure Jasmine Blossoms ,331,50,2.5,N,These can be drunk as they are or added to tea to increase the concentration of jasmine
+Tea,China,331,Jasmine Fortune Balls ,463,50,11,N,Tea buds are perfumed with jasmine blossoms then hand-tied into small balls crowned with a beautiful red smiling flower
+Tea,China,141,Tarry Lapsang Crocodile,251,50,3.6,N,
+Tea,China,142,Tarry Lapsang Souchong ,325,50,3,N,From the same beautiful province comes this slightly more full-bodied smoky infusion
+Tea,China,338,Lapsang Gold ,79,50,5,N,This beautiful looking tea is named after the colour of the buds from which it is made
+Tea,China,145,Lichee ,433,50,2.3,N,
+Tea,China,146,Lotus Blossom ,193,50,2.3,N,
+Coffee,El Salvador,405,Salvador Cloud ForestTM,264,50,2.75,N,Delicate balanced with a citrusy tang and sweet aroma
+Coffee,Colombia,409, Colombian Inca Gold TM,71,50,2.75,N,The finest coffee from Colombia has a rich body heady aroma distinctive character and lingering fruity aftertaste
+Coffee,Mexico,412,Mexican Aztec LiquidambarTM,10,50,2.75,N,For easy all day drinking mellow body lively fragrance with a satisfying nutty flavour
+Coffee,Venezuela,474,Venezuelan Bright AngelTM,308,50,2.75,N,Rounded silky body with a fruity aroma - the depth of flavour being balanced by a lively sweet acidity
+Coffee,Nicaragua,477,Nicaraguan La Illusion,371,50,2.75,N,Strong bodied clean balanced with a delicate aroma and refreshing character
+Coffee,Guatemala,483,Guatemalan Black Bullper ,341,50,2.75,N,With a dark roast this silky balanced coffee gains more body and sweetness to complement its dark cocoa character
+Coffee,Peru,479,Peru Treasure of the Andes,180,50,2.75,N,A slightly fuller roast gives this light bodied naturally grown coffee a creamy liquor with a sweet taste and aroma
+Coffee,Haiti,416, Haiti Voodoo CometTM,62,50,2.75,N,Dense body complex flavour with a smooth character - one of our most popular dark coffees
+Coffee,Colombia,417,Colombian Inca DarkTM ,402,50,2.75,N,Like elsewhere this continent produces many ordinary coffees but we have sought out types that can be considered amongst the world's best
+Coffee,Kenya,420,Kenya Lion KingTM,64,50,3.5,N,An astonishingly rich snappy hearty flavour with an overwhelming aroma of blackcurrant fruit and leaves
+Coffee,Ethiopia,421, Ethiopian Wild HorseTM,174,50,3.5,N,Rustic 'Mocha' character soft bodied
+Coffee,Kenya,425,Kenya Lion King DarkTM ,121,50,3.5,N,Powerful flavour excellent fruity fragrance and darkly sweet aftertaste
+Coffee,Tanzania,426,Tanzanian Kibo Chagga Dark,58,50,3.5,N,Fulfilling body brisk flavour and penetrating aroma
+Coffee,Ethiopia,464,Ethiopian Yirgachefa Dark,125,50,3.5,N,Rich body fruity flavours and aroma - good espresso
+Coffee,Sulawesi,437,Sulawesi Jewel of the RainforestTM,79,50,3.5,N,A roast falling between medium to dark brings out the rich body of this coffe - good espresso
+Coffee,Australia,473, Australian Skybury,424,50,3.5,N,It is grown in the rainforest area of Queensland near a town called Paddy's Green - soft flavoured with a bright acidity and delicate body
+Coffee,Java,436,Aged Java Blue PearlTM,197,50,3.5,N,Complex refined body sweet spicy earthy aromas - interesting espresso base
+Coffee,Sumatra,438,Sumatran Jumpa JayaTM,408,50,3.5,N,Dark really heavy body syrupy rich with hints of spice and fruit complex chocolate like aroma full flavour - powerful espresso
+Coffee,India,439, Indian Monsoon Malabar,159,50,3.5,N,Exclusive beans 'aged' to produce the most distinctive flavour - intense rich but mellow with a unique exotic character Surprising espresso coffee
+Coffee,Italy,481,Nero,284,50,3.5,N,Blended from our finest beans to create the perfect espresso
+Coffee,Colombia,462,Colombian Inca Dark Decaffeinated,30,50,4.5,N,Decaffeinated - powerful flavours with a wonderfully rich body - a very satisfying espresso
+Coffee,Guatemala,470,Blue Pearl Decaffeinated per 125g.,473,50,4.5,N,Decaffeinated - powerful but always smooth with spicy chocolate notes and a mellow character - good espresso
+Coffee,Guatemala,471,Maya Gold Decaffeinated,119,50,4.5,N,Decaffeinated - like our regular Guatemalan coffee this offers a fine bodied refreshing smooth liquor for a satisfying all day (and night!) cup
+Coffee,Peru,484,Peruvian Treasure Organic Decaff ,178,50,4.5,N,Decaffeinated - our popular Peruvian coffee is naturally decaffeinated and maintains its smooth creamy character

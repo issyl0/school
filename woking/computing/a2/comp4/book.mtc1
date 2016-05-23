@@ -1,0 +1,36 @@
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {1.1}Introduction}{\reset@font\mtcSfont 5}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.1.1}Background}{\reset@font\mtcSSfont 5}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.1.2}Problem definition}{\reset@font\mtcSSfont 5}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.1.3}The users}{\reset@font\mtcSSfont 5}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {1.2}Investigation of user needs and acceptable limitations}{\reset@font\mtcSfont 6}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.2.1}The current system analysis}{\reset@font\mtcSSfont 6}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {1.2.1.1}Interview (1), 13/\penalty \exhyphenpenalty 10/\penalty \exhyphenpenalty 2011, 14:00}{\reset@font\mtcSSSfont 6}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {1.2.1.2}Observation}{\reset@font\mtcSSSfont 7}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {1.2.1.3}Investigation of documentation}{\reset@font\mtcSSSfont 7}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {1.2.1.4}Investigation of input forms, output forms and report formats from the existing system}{\reset@font\mtcSSSfont 7}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.2.2}Data Flow Diagram of the current system}{\reset@font\mtcSSfont 8}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.2.3}Data sources and destinations}{\reset@font\mtcSSfont 9}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.2.4}Entity relationship diagram and entity descriptions of the current system}{\reset@font\mtcSSfont 9}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.2.5}Discussion of problems with the current system}{\reset@font\mtcSSfont 9}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.2.6}The proposed new system analysis}{\reset@font\mtcSSfont 9}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {1.2.6.1}User needs}{\reset@font\mtcSSSfont 9}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {1.2.6.2}Interview (2), 24/\penalty \exhyphenpenalty 10/\penalty \exhyphenpenalty 11, 19:00}{\reset@font\mtcSSSfont 10}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.2.7}Data Flow Diagram of the proposed new system}{\reset@font\mtcSSfont 10}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.2.8}Data sources and destinations}{\reset@font\mtcSSfont 10}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.2.9}Entity relationship diagram and entity descriptions of the new system}{\reset@font\mtcSSfont 11}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.2.10}Analysis data dictionary}{\reset@font\mtcSSfont 11}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.2.11}Data volumes}{\reset@font\mtcSSfont 12}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {1.3}Constraints}{\reset@font\mtcSfont 13}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.3.1}Hardware constraints}{\reset@font\mtcSSfont 13}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.3.2}Software constraints}{\reset@font\mtcSSfont 13}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.3.3}Time constraints}{\reset@font\mtcSSfont 13}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.3.4}User's knowledge of information technology}{\reset@font\mtcSSfont 13}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.3.5}Who will be allowed to use various parts of the system}{\reset@font\mtcSSfont 13}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {1.4}Limitations}{\reset@font\mtcSfont 13}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.4.1}Areas which will not be included in computerisation}{\reset@font\mtcSSfont 13}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.4.2}Areas considered for later development}{\reset@font\mtcSSfont 13}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {1.5}Objectives}{\reset@font\mtcSfont 14}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.5.1}General objectives}{\reset@font\mtcSSfont 14}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.5.2}Specific objectives}{\reset@font\mtcSSfont 14}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {1.6}Consideration of alternative solutions}{\reset@font\mtcSfont 14}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {1.7}Justification of the chosen solution}{\reset@font\mtcSfont 15}}

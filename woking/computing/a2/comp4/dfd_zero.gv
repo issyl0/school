@@ -1,0 +1,9 @@
+digraph dfd_zero {
+	cust [label="CUSTOMER",shape=rectangle];
+	inst_sys [label="INSTALLED SYSTEM",shape=rectangle];
+
+	process [label="SFS document processes"];
+
+	cust -> process -> inst_sys;
+
+}

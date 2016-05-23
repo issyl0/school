@@ -1,0 +1,13 @@
+Books program:
+
+o Add books.
+o Switch books to 'sold'.
+o List books.
+	o By author
+	o By title
+		o Alphabetically - sorting!
+	o By lowest to highest ISBN.
+	o If sold (in sold books thing), by date sold, and possibly price.
+o Delete books.
+o See each person's books - like mum's, dad's, mine.
+o Login as a specific book hoarder.

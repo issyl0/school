@@ -1,0 +1,17 @@
+digraph dfd_one {
+
+	cust [label="CUSTOMER",shape=rectangle];
+	inst_sys [label="INSTALLED SYSTEM",shape=rectangle];
+
+	enquiry [label="makes\nenquiry"];
+	survey [label="SFS\ncarry out\nsurvey"];
+	send_quote [label="SFS\nsend\nquote"];
+	accept_quote [label="customer\naccepts\nquote"];
+	arrange_date [label="SFS\narranges install\ndate with\ncustomer and\ncontractors"];
+	order_goods [label="SFS\norders panels\netc."];
+	confirm_date [label="SFS\nconfirms date\nwith customer\nand\ncontractors"];
+	complete_paperwork [label="SFS\ncompletes the\nnecessary\npaperwork"];
+
+	cust -> enquiry -> survey -> send_quote -> accept_quote -> arrange_date -> order_goods -> confirm_date -> complete_paperwork -> inst_sys;
+
+}
